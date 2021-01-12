@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{5471A38A-80A2-458C-9AF8-BEE4A216A861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "WebApplication3\IdentityServer.csproj", "{5471A38A-80A2-458C-9AF8-BEE4A216A861}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI1", "WebAPI1\WebAPI1.csproj", "{275AB9A0-8C61-4C6D-9DA8-AFF2CD874693}"
 	ProjectSection(ProjectDependencies) = postProject
